@@ -5,6 +5,7 @@ from datetime import date
 IDs = {}
 with open('newnames.csv','r') as csvfile:
     csv_data = csv.reader(csvfile)
+    # next command is to ignore the first row that has the column title
     next(csv_data)
     # build dictionary with associated IDs
     for row in csv_data:
