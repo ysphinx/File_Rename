@@ -2,6 +2,7 @@
 Bulk Rename PDF file names with a delimiter then Rename using a CSV column matched name
 
 Problem to solve
+
 A user needed a program that can automate the process of renaming multiple PDF files that had the following format "############_textornumbersoranyothercharacter.pdf". The new names are popullated in a CSV file named "newnames" with two columns one for Account and one for Name. 
 
 First you need to have 3 folders named as follow: 1 "Initial_FD" | 2 "Transit_FD" | 3 "Result"
