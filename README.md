@@ -1,4 +1,4 @@
-# PDF_Rename
+# File_Rename "PDF version"
 Bulk Rename PDF file names with a delimiter then Rename using a CSV column matched name
 
 Problem to solve
